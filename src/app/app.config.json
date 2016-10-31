@@ -1,0 +1,15 @@
+{
+	"appname": "acumera-admin",
+	"scope": "FullAccess BuyerAdmin BuyerReader",
+	"clientid": "C86DBC96-DE42-4233-A511-45BB93F5496A",
+	"buyerid": "general",
+	"catalogid": "9dzM7oi290SoKbgnyyt8Ww",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
